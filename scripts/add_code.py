@@ -27,3 +27,7 @@ for line in lines:
     print(req.text, req.status_code)
     print("Finished processing code" + str(cnt) + ".c")
     cnt+=1
+"""
+This script was written by Vamsi.
+It prints a simple message.
+"""
